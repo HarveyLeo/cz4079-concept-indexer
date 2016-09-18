@@ -1,0 +1,1 @@
+The Laplace transform is an integral transform perhaps second only to the Fourier transform in its utility in solving physical problems. The Laplace transform is particularly useful in solving linear ordinary differential equations such as those arising in the analysis of electronic circuits.

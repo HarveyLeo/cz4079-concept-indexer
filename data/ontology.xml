@@ -1,0 +1,18 @@
+<tree>
+  <node name="Transform" id="1">
+    <node name="Fourier Transform" id="1.1">
+      <node name="Discrete Fourier Transform" id="1.1.1">discrete fourier transform
+        <node name="Fast Fourier Transform" id="1.1.1.1">fast fourier transform</node>
+      </node>
+      <node name="Discrete-Time Fourier Transform" id="1.1.2">discrete-time fourier transform, fourier transform</node>
+      <node name="Continuous-Time Fourier Transform" id="1.1.3">continuous-time fourier transform, laplace tranform</node>
+      <node name="Short-Time Fourier Transform" id="1.1.4">short-time fourier transform, STFT
+        <node name="Continuous-Time STFT" id="1.1.4.1">continuous-time short-time fourier transform, continuous-time STFT</node>
+        <node name="Discrete-Time STFT" id="1.1.4.2">discrete-time short-time fourier transform, discrete-time STFT</node>
+      </node>
+    </node>
+    <node name="Laplace Transform" id="1.2">laplace transform, inverse laplace transform, continuous-time fourier transform
+      <node name="Laplace Transform Convergence" id="1.2.1">laplace transform converge</node>
+    </node>
+  </node>
+</tree>
